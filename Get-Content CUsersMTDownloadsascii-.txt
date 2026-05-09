@@ -1,0 +1,3 @@
+Write-Host "PROFILE RUNNING" -ForegroundColor Green
+
+Get-Content "$HOME\Downloads\ascii-project\unicode_face.txt"
