@@ -16,7 +16,7 @@ This project takes an input image (like a face or object) and transforms it into
 
 ---
 
- **My Learning Journey**
+ **What I learned**
 
 This project was built step-by-step while learning:
 
